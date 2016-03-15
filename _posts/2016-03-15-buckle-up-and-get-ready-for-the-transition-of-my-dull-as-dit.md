@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Buckle up and get ready for the transition of my dull as ditch water Google+ Kitesurfing log to to its new home. \_"
-datePublished: '2016-03-15T23:08:23.704Z'
-dateModified: '2016-03-15T23:04:00.171Z'
+datePublished: '2016-03-15T23:09:01.736Z'
+dateModified: '2016-03-15T23:08:33.366Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-15-buckle-up-and-get-ready-for-the-transition-of-my-dull-as-dit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-buckle-up-and-get-ready-for-the-transition-of-my-dull-as-dit.md
-published: true
 url: buckle-up-and-get-ready-for-the-transition-of-my-dull-as-dit/index.html
 _type: Article
 
